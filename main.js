@@ -6,6 +6,7 @@ const body = document.getElementsByTagName("body")[0];
 const openAnimationTime = 1250;
 
 let start;
+
 const step = (stamp) => {
   if (start === undefined) start = stamp;
   const elapsed = stamp - start;
@@ -16,4 +17,5 @@ const step = (stamp) => {
     window.requestAnimationFrame(step);
   }
 };
+
 window.requestAnimationFrame(step);
