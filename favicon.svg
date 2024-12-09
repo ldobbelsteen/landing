@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <circle cx="256" cy="256" r="256" style="fill:lightcoral" />
+    <circle cx="256" cy="256" r="232" style="fill:#B82E2A" />
+    <circle cx="256" cy="256" r="40" style="fill:aliceblue" />
+    <circle cx="328" cy="131" r="40" style="fill:aliceblue" />
+    <circle cx="131" cy="184" r="40" style="fill:aliceblue" />
+    <circle cx="184" cy="381" r="40" style="fill:aliceblue" />
+    <circle cx="381" cy="328" r="40" style="fill:aliceblue" />
+</svg>
